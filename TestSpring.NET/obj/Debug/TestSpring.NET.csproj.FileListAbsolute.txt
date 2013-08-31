@@ -1,0 +1,10 @@
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\bin\Debug\TestSpring.NET.exe.config
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\bin\Debug\TestSpring.NET.exe
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\bin\Debug\TestSpring.NET.pdb
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\bin\Debug\Common.Logging.dll
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\bin\Debug\Spring.Core.dll
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\bin\Debug\Spring.Core.pdb
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\bin\Debug\Spring.Core.xml
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\obj\Debug\TestSpring.NET.csprojResolveAssemblyReference.cache
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\obj\Debug\TestSpring.NET.exe
+C:\.Net C# Tests\TestSpring.NET\TestSpring.NET\obj\Debug\TestSpring.NET.pdb
